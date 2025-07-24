@@ -27,7 +27,7 @@
 | 📊 [Traffic Volume Estimator](https://github.com/AmartyaDas01/traffic-volume-estimator) | Real-time traffic volume prediction system using sensor + weather data |
 | 🌐 [MERN Blog App](https://github.com/AmartyaDas01/blogify) | Full-stack blog app with authentication and CRUD features |
 | 🔐 [Voting DApp](https://github.com/AmartyaDas01/voting-dapp) | A simple decentralized voting system on Ethereum blockchain |
-| 📚 [DSA in C/Python](https://github.com/AmartyaDas01/dsa-C-python) | Data Structures & Algorithms implemented in JS with notes and visuals |
+| 📚 [DSA in C/C++/Python](https://github.com/AmartyaDas01/dsa-C-python) | Data Structures & Algorithms implemented in C/C++/Python with notes and visuals |
 
 ---
 
@@ -42,9 +42,9 @@
 
 ### 📫 Let’s Connect
 
-- ✉️ Email: yourname@email.com
-- 💼 LinkedIn: [linkedin.com/in/amartyadas](https://linkedin.com/in/amartyadas)
-- 🌐 Portfolio (optional): [amartyadas.me](https://amartyadas.me) _(replace if available)_
+- ✉️ Email: dasamartya2000@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/dasamartya](https://www.linkedin.com/in/dasamartya)
+- 🌐 Portfolio: [amartyadas.me](https://amartyadas.me)
 
 ---
 
