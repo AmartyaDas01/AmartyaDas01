@@ -108,12 +108,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmartyaDas01&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmartyaDas01&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmartyaDas01&theme=tokyonight" width="32%" />
+  <img src="https://streak-stats.demolab.com/?user=AmartyaDas01&theme=tokyonight&hide_border=true" width="34%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmartyaDas01&theme=tokyonight" width="28%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmartyaDas01&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmartyaDas01&theme=tokyonight" width="96%" />
 </p>
 
 ---
