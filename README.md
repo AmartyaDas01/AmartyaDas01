@@ -28,14 +28,20 @@
 
 ## 💼 Experience
 
-**👨‍🏫 Assistant Professor** — Dayananda Sagar University *(June 2026 – Present)*
-*Department of Computer Science and Engineering · Bangalore, Karnataka, India*
+**🏛️ Dayananda Sagar University** &nbsp;&nbsp; `June 2026 – Present`  
+*Assistant Professor — Department of Computer Science and Engineering*  
+*📍 Bangalore, Karnataka, India*
+
 - Teaching undergraduate courses in the Department of Computer Science and Engineering
 - Mentoring students on academic projects, research, and career development
 - Contributing to curriculum development and departmental academic activities
 
-**💻 Web Developer Intern** — TCR Innovation *(Oct – Dec 2021 & Aug – Nov 2022)*
-*Navi Mumbai, Maharashtra, India*
+<br>
+
+**🖥️ TCR Innovation** &nbsp;&nbsp; `Oct – Dec 2021 & Aug – Nov 2022`  
+*Web Developer Intern*  
+*📍 Navi Mumbai, Maharashtra, India*
+
 - Designed responsive UIs using HTML, CSS, and JavaScript
 - Implemented server-side functionalities with backend frameworks and database integration
 - Collaborated on full-stack web projects, ensuring smooth integration between frontend and backend
