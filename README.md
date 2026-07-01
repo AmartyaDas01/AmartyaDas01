@@ -18,7 +18,7 @@
 ## 🧑‍💻 About Me
 
 - 👨‍🏫 **Assistant Professor** at **Dayananda Sagar University**, Bangalore
-- 🎓 Pursuing **M.Tech CSE** at **BIT Mesra** · CGPA: **8.78** | B.Tech CSE · CGPA: **8.9**
+- 🎓 **M.Tech CSE** at **BIT Mesra** · CGPA: **8.78** | B.Tech CSE · CGPA: **8.9**
 - 🤖 Passionate about **Machine Learning, AI-driven Systems & Full-Stack Web Development**
 - 🏆 **GATE Qualified** — 2024 & 2025 (Computer Science & IT)
 - 💻 Solved **300+ problems** on LeetCode, GeeksforGeeks & HackerEarth
