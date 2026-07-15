@@ -130,17 +130,64 @@
 
 ## Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [AI Teaching Assistant](https://github.com/AmartyaDas01/ai-teaching-assistant) | RAG-based assistant for educators: chat with course materials with source citations, generate Bloom's Taxonomy aligned quizzes, and track student performance analytics | FastAPI · React · LangChain · ChromaDB/Qdrant · OpenAI/Ollama |
-| [Handwritten Digit Recognition](https://github.com/AmartyaDas01) | Real-time CNN-based digit recognition system using MNIST dataset with Pygame interface | Python · TensorFlow · Keras · OpenCV · Pygame |
-| [Library Management System](https://github.com/AmartyaDas01/TheLibrary-LibraryManagementSystem) | Responsive library system with auth, book lifecycle management & reader tracking | Python · Django · SQLite |
-| [Cab Fare Predictor](https://github.com/AmartyaDas01/cab-fare-predictor) | ML model to predict cab fares based on trip features | Python · Scikit-learn · Pandas |
-| [AQI Predictor](https://github.com/AmartyaDas01/aqi-predictor) | Air Quality Index prediction using environmental sensor data | Python · ML · Pandas |
-| [Traffic Volume Estimator](https://github.com/AmartyaDas01/traffic-volume-estimator) | Estimates traffic volume for smart transport planning | Python · Scikit-learn |
-| [Blogify](https://github.com/AmartyaDas01/blogify) | Full-stack MERN blog platform | React · Node.js · MongoDB |
-| [Voting DApp](https://github.com/AmartyaDas01/voting-dapp) | Decentralized voting application on Ethereum | Solidity · Web3.js · Ethereum |
-| [DSA Library](https://github.com/AmartyaDas01/dsa-C-python) | Data structures & algorithms implemented in C and Python | C · Python |
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+**[AI Teaching Assistant](https://github.com/AmartyaDas01/ai-teaching-assistant)**
+
+RAG-based assistant for educators: chat with course materials with source citations, generate Bloom's Taxonomy aligned quizzes, and track student performance analytics.
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+
+![stars](https://img.shields.io/github/stars/AmartyaDas01/ai-teaching-assistant?style=flat-square&color=58A6FF&label=stars)
+![last commit](https://img.shields.io/github/last-commit/AmartyaDas01/ai-teaching-assistant?style=flat-square&color=58A6FF)
+
+</td>
+<td width="33%" valign="top">
+
+**[Library Management System](https://github.com/AmartyaDas01/TheLibrary-LibraryManagementSystem)**
+
+Responsive library system with auth, book lifecycle management, and reader tracking.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+![stars](https://img.shields.io/github/stars/AmartyaDas01/TheLibrary-LibraryManagementSystem?style=flat-square&color=58A6FF&label=stars)
+![last commit](https://img.shields.io/github/last-commit/AmartyaDas01/TheLibrary-LibraryManagementSystem?style=flat-square&color=58A6FF)
+
+</td>
+<td width="33%" valign="top">
+
+**[Food Restaurant Website](https://github.com/AmartyaDas01/Food-Restaurant-McDuck-s)**
+
+Responsive restaurant website built during a full-stack web development internship.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+![stars](https://img.shields.io/github/stars/AmartyaDas01/Food-Restaurant-McDuck-s?style=flat-square&color=58A6FF&label=stars)
+![last commit](https://img.shields.io/github/last-commit/AmartyaDas01/Food-Restaurant-McDuck-s?style=flat-square&color=58A6FF)
+
+</td>
+</tr>
+</table>
+
+**In the pipeline**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Handwritten_Digit_Recognition-soon-8b949e?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cab_Fare_Predictor-soon-8b949e?style=flat-square" />
+  <img src="https://img.shields.io/badge/AQI_Predictor-soon-8b949e?style=flat-square" />
+  <img src="https://img.shields.io/badge/Traffic_Volume_Estimator-soon-8b949e?style=flat-square" />
+  <img src="https://img.shields.io/badge/Blogify-soon-8b949e?style=flat-square" />
+  <img src="https://img.shields.io/badge/Voting_DApp-soon-8b949e?style=flat-square" />
+  <img src="https://img.shields.io/badge/DSA_Library-soon-8b949e?style=flat-square" />
+</p>
 
 ---
 
