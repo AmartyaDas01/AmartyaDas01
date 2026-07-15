@@ -198,13 +198,15 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmartyaDas01&theme=tokyonight" width="32%" />
-  <img src="https://streak-stats.demolab.com/?user=AmartyaDas01&theme=tokyonight&hide_border=true" width="34%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmartyaDas01&theme=tokyonight" width="28%" />
+  <img src="https://streak-stats.demolab.com/?user=AmartyaDas01&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmartyaDas01&theme=tokyonight" width="96%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmartyaDas01/AmartyaDas01/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmartyaDas01/AmartyaDas01/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/AmartyaDas01/AmartyaDas01/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" width="96%" />
+  </picture>
 </p>
 
 ---
