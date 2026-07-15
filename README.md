@@ -132,8 +132,9 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [AI Teaching Assistant](https://github.com/AmartyaDas01/ai-teaching-assistant) | RAG-based assistant for educators: chat with course materials with source citations, generate Bloom's Taxonomy aligned quizzes, and track student performance analytics | FastAPI · React · LangChain · ChromaDB/Qdrant · OpenAI/Ollama |
 | [Handwritten Digit Recognition](https://github.com/AmartyaDas01) | Real-time CNN-based digit recognition system using MNIST dataset with Pygame interface | Python · TensorFlow · Keras · OpenCV · Pygame |
-| [Library Management System](https://github.com/AmartyaDas01) | Responsive library system with auth, book lifecycle management & reader tracking | Python · Django · SQLite |
+| [Library Management System](https://github.com/AmartyaDas01/TheLibrary-LibraryManagementSystem) | Responsive library system with auth, book lifecycle management & reader tracking | Python · Django · SQLite |
 | [Cab Fare Predictor](https://github.com/AmartyaDas01/cab-fare-predictor) | ML model to predict cab fares based on trip features | Python · Scikit-learn · Pandas |
 | [AQI Predictor](https://github.com/AmartyaDas01/aqi-predictor) | Air Quality Index prediction using environmental sensor data | Python · ML · Pandas |
 | [Traffic Volume Estimator](https://github.com/AmartyaDas01/traffic-volume-estimator) | Estimates traffic volume for smart transport planning | Python · Scikit-learn |
