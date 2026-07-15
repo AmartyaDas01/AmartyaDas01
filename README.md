@@ -136,39 +136,39 @@
 
 **[AI Teaching Assistant](https://github.com/AmartyaDas01/ai-teaching-assistant)**
 
-RAG-based assistant for educators: Chat with course materials with source citations, generate Bloom's Taxonomy aligned quizzes, and track student performance analytics.
+[![Deployed](https://img.shields.io/badge/Deployed-success?style=flat-square&logo=render&logoColor=white)](https://ai-ta-frontend.onrender.com)
+
+<p align="justify">RAG-based assistant for educators: Chat with course materials with source citations, generate Bloom's Taxonomy aligned quizzes, and track student performance analytics.</p>
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-
-[![Deployed](https://img.shields.io/badge/Deployed-success?style=flat-square&logo=render&logoColor=white)](https://ai-ta-frontend.onrender.com)
 
 </td>
 <td width="33%" valign="top">
 
 **[Library Management System](https://github.com/AmartyaDas01/TheLibrary-LibraryManagementSystem)**
 
-Responsive library system with auth, book lifecycle management, and reader tracking.
+**Deployed:**
+
+<p align="justify">Responsive library system with auth, book lifecycle management, and reader tracking.</p>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-**Deployed:**
 
 </td>
 <td width="33%" valign="top">
 
 **[Food Restaurant Website](https://github.com/AmartyaDas01/Food-Restaurant-McDuck-s)**
 
-Responsive restaurant website built during a full-stack web development internship.
+**Deployed:**
+
+<p align="justify">Responsive restaurant website built during a full-stack web development internship.</p>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Deployed:**
 
 </td>
 </tr>
