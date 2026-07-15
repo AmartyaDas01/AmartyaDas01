@@ -142,9 +142,6 @@ RAG-based assistant for educators: Chat with course materials with source citati
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
-![stars](https://img.shields.io/github/stars/AmartyaDas01/ai-teaching-assistant?style=flat-square&color=58A6FF&label=stars)
-![last commit](https://img.shields.io/github/last-commit/AmartyaDas01/ai-teaching-assistant?style=flat-square&color=58A6FF)
-
 </td>
 <td width="33%" valign="top">
 
@@ -156,9 +153,6 @@ Responsive library system with auth, book lifecycle management, and reader track
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-![stars](https://img.shields.io/github/stars/AmartyaDas01/TheLibrary-LibraryManagementSystem?style=flat-square&color=58A6FF&label=stars)
-![last commit](https://img.shields.io/github/last-commit/AmartyaDas01/TheLibrary-LibraryManagementSystem?style=flat-square&color=58A6FF)
-
 </td>
 <td width="33%" valign="top">
 
@@ -169,9 +163,6 @@ Responsive restaurant website built during a full-stack web development internsh
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-![stars](https://img.shields.io/github/stars/AmartyaDas01/Food-Restaurant-McDuck-s?style=flat-square&color=58A6FF&label=stars)
-![last commit](https://img.shields.io/github/last-commit/AmartyaDas01/Food-Restaurant-McDuck-s?style=flat-square&color=58A6FF)
 
 </td>
 </tr>
