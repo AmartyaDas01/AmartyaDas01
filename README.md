@@ -136,7 +136,7 @@
 
 **[AI Teaching Assistant](https://github.com/AmartyaDas01/ai-teaching-assistant)**
 
-RAG-based assistant for educators: chat with course materials with source citations, generate Bloom's Taxonomy aligned quizzes, and track student performance analytics.
+RAG-based assistant for educators: Chat with course materials with source citations, generate Bloom's Taxonomy aligned quizzes, and track student performance analytics.
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
