@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Amartya Das</h1>
-<h3 align="center">Assistant Professor @ Dayananda Sagar University &nbsp;·&nbsp; M.Tech CSE @ BIT Mesra &nbsp;·&nbsp; ML · Web Dev · Educator</h3>
+<h3 align="center">Assistant Professor @ Dayananda Sagar University &nbsp;·&nbsp; M.Tech CSE @ BIT Mesra &nbsp;·&nbsp; AI/ML · Web Dev · Educator</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dasamartya/">
