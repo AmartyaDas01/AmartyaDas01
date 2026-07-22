@@ -140,15 +140,12 @@
 
 <p align="justify">RAG-based assistant for educators: Chat with course materials with source citations, generate Bloom's Taxonomy aligned quizzes, and track student performance analytics.</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square&logo=chromadb&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </td>
 <td width="33%" valign="top">
@@ -182,77 +179,48 @@
 </tr>
 </table>
 
-### You can also have a look at
+### You can also have a look at my other projects:
 
 <table>
-<tr><th align="left">Project</th><th align="left">Tech</th><th align="left">Link</th></tr>
+<tr><th align="left">Project</th><th align="left">Description</th><th align="left">Link</th></tr>
 <tr>
 <td>Handwritten Digit Recognition</td>
-<td>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/Gradio-F97316?style=flat-square&logo=gradio&logoColor=white" height="20"/>
-</td>
+<td>Draw a digit in the browser and a CNN reads it back live</td>
 <td><a href="https://handwritten-digit-recognition-ho1h.onrender.com"><img src="https://img.shields.io/badge/Deployed-success?style=flat-square&logo=render&logoColor=white" height="20"/></a></td>
 </tr>
 <tr>
 <td>Library Management System</td>
-<td>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="20"/>
-</td>
+<td>Book lifecycle management with auth and reader tracking</td>
 <td><a href="https://github.com/AmartyaDas01/TheLibrary-LibraryManagementSystem"><img src="https://img.shields.io/badge/Repository-24292F?style=flat-square&logo=github&logoColor=white" height="20"/></a></td>
 </tr>
 <tr>
 <td>Cab Fare Predictor</td>
-<td>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="20"/>
-</td>
+<td>ML model to predict cab fares from trip features</td>
 <td></td>
 </tr>
 <tr>
 <td>AQI Predictor</td>
-<td>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="20"/>
-</td>
+<td>Air Quality Index prediction from environmental sensor data</td>
 <td></td>
 </tr>
 <tr>
 <td>Traffic Volume Estimator</td>
-<td>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" height="20"/>
-</td>
+<td>Estimates traffic volume for smart transport planning</td>
 <td></td>
 </tr>
 <tr>
 <td>Blogify</td>
-<td>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" height="20"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="20"/>
-</td>
+<td>Full-stack blog platform</td>
 <td></td>
 </tr>
 <tr>
 <td>Voting DApp</td>
-<td>
-<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" height="20"/>
-</td>
+<td>Decentralized voting application on Ethereum</td>
 <td></td>
 </tr>
 <tr>
 <td>DSA Library</td>
-<td>
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="20"/>
-</td>
+<td>Data structures and algorithms implemented in C and Python</td>
 <td></td>
 </tr>
 </table>
