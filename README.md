@@ -147,15 +147,17 @@
 </td>
 <td width="33%" valign="top">
 
-**[Library Management System](https://github.com/AmartyaDas01/TheLibrary-LibraryManagementSystem)**
+**[Praxis](https://github.com/AmartyaDas01/praxis-lms)**
 
 **Deployed:**
 
-<p align="justify">Responsive library system with auth, book lifecycle management, and reader tracking.</p>
+<p align="justify">Course and lab management platform for university teaching: assignments, lab submissions, rubric-based grading, and code similarity checking. Early-stage and actively in development.</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 
 </td>
 <td width="33%" valign="top">
@@ -174,17 +176,18 @@
 </tr>
 </table>
 
-**In the pipeline**
+### More Projects
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Handwritten_Digit_Recognition-soon-8b949e?style=flat-square" />
-  <img src="https://img.shields.io/badge/Cab_Fare_Predictor-soon-8b949e?style=flat-square" />
-  <img src="https://img.shields.io/badge/AQI_Predictor-soon-8b949e?style=flat-square" />
-  <img src="https://img.shields.io/badge/Traffic_Volume_Estimator-soon-8b949e?style=flat-square" />
-  <img src="https://img.shields.io/badge/Blogify-soon-8b949e?style=flat-square" />
-  <img src="https://img.shields.io/badge/Voting_DApp-soon-8b949e?style=flat-square" />
-  <img src="https://img.shields.io/badge/DSA_Library-soon-8b949e?style=flat-square" />
-</p>
+| Project | Link |
+|---------|------|
+| Handwritten Digit Recognition | [![Deployed](https://img.shields.io/badge/Deployed-success?style=flat-square&logo=render&logoColor=white)](https://handwritten-digit-recognition-ho1h.onrender.com) |
+| Library Management System | [![Repository](https://img.shields.io/badge/Repository-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/AmartyaDas01/TheLibrary-LibraryManagementSystem) |
+| Cab Fare Predictor | |
+| AQI Predictor | |
+| Traffic Volume Estimator | |
+| Blogify | |
+| Voting DApp | |
+| DSA Library | |
 
 ---
 
