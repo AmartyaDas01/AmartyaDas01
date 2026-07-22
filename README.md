@@ -181,6 +181,8 @@
 
 ### You can also have a look at my other projects:
 
+<div align="center">
+
 <table>
 <tr><th align="left">Project</th><th align="left">Description</th><th align="left">Link</th></tr>
 <tr>
@@ -224,6 +226,8 @@
 <td></td>
 </tr>
 </table>
+
+</div>
 
 ---
 
