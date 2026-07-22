@@ -176,18 +176,80 @@
 </tr>
 </table>
 
-### More Projects
+### You can also have a look at
 
-| Project | Link |
-|---------|------|
-| Handwritten Digit Recognition | [![Deployed](https://img.shields.io/badge/Deployed-success?style=flat-square&logo=render&logoColor=white)](https://handwritten-digit-recognition-ho1h.onrender.com) |
-| Library Management System | [![Repository](https://img.shields.io/badge/Repository-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/AmartyaDas01/TheLibrary-LibraryManagementSystem) |
-| Cab Fare Predictor | |
-| AQI Predictor | |
-| Traffic Volume Estimator | |
-| Blogify | |
-| Voting DApp | |
-| DSA Library | |
+<table>
+<tr><th align="left">Project</th><th align="left">Tech</th><th align="left">Link</th></tr>
+<tr>
+<td>Handwritten Digit Recognition</td>
+<td>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/Gradio-F97316?style=flat-square&logo=gradio&logoColor=white" height="20"/>
+</td>
+<td><a href="https://handwritten-digit-recognition-ho1h.onrender.com"><img src="https://img.shields.io/badge/Deployed-success?style=flat-square&logo=render&logoColor=white" height="20"/></a></td>
+</tr>
+<tr>
+<td>Library Management System</td>
+<td>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="20"/>
+</td>
+<td><a href="https://github.com/AmartyaDas01/TheLibrary-LibraryManagementSystem"><img src="https://img.shields.io/badge/Repository-24292F?style=flat-square&logo=github&logoColor=white" height="20"/></a></td>
+</tr>
+<tr>
+<td>Cab Fare Predictor</td>
+<td>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="20"/>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>AQI Predictor</td>
+<td>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="20"/>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>Traffic Volume Estimator</td>
+<td>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" height="20"/>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>Blogify</td>
+<td>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" height="20"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="20"/>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>Voting DApp</td>
+<td>
+<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" height="20"/>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>DSA Library</td>
+<td>
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="20"/>
+</td>
+<td></td>
+</tr>
+</table>
 
 ---
 
