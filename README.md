@@ -152,7 +152,7 @@
 
 **[Praxis](https://github.com/AmartyaDas01/praxis-lms)**
 
-**Deployed:**
+[![Deployed](https://img.shields.io/badge/Deployed-success?style=flat-square&logo=vercel&logoColor=white)](https://praxis-lms-murex.vercel.app)
 
 <p align="justify">Course and lab management platform for university teaching: assignments, lab submissions, rubric-based grading, and code similarity checking. Early-stage and actively in development.</p>
 
@@ -188,7 +188,10 @@
 <tr>
 <td>Handwritten Digit Recognition</td>
 <td>Draw a digit in the browser and a CNN reads it back live</td>
-<td><a href="https://handwritten-digit-recognition-ho1h.onrender.com"><img src="https://img.shields.io/badge/Deployed-success?style=flat-square&logo=render&logoColor=white" height="20"/></a></td>
+<td>
+<a href="https://handwritten-digit-recognition-ho1h.onrender.com"><img src="https://img.shields.io/badge/Deployed-success?style=flat-square&logo=render&logoColor=white" height="20"/></a>
+<a href="https://github.com/AmartyaDas01/handwritten-digit-recognition"><img src="https://img.shields.io/badge/Repository-24292F?style=flat-square&logo=github&logoColor=white" height="20"/></a>
+</td>
 </tr>
 <tr>
 <td>Library Management System</td>
