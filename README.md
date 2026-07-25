@@ -165,15 +165,16 @@
 </td>
 <td width="33%" valign="top">
 
-**[Food Restaurant Website](https://github.com/AmartyaDas01/Food-Restaurant-McDuck-s)**
+**[Library Management System](https://github.com/AmartyaDas01/TheLibrary-LibraryManagementSystem)**
 
-**Deployed:**
+[![Deployed](https://img.shields.io/badge/Deployed-success?style=flat-square&logo=vercel&logoColor=white)](https://library-management-system-omega-rosy.vercel.app)
 
-<p align="justify">Responsive restaurant website built during a full-stack web development internship.</p>
+<p align="justify">A library management system with two sides: a public catalogue where members borrow and reserve books, and a staff desk for circulation, fines, and the collection.</p>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 </td>
 </tr>
@@ -194,9 +195,9 @@
 </td>
 </tr>
 <tr>
-<td>Library Management System</td>
-<td>Book lifecycle management with auth and reader tracking</td>
-<td><a href="https://github.com/AmartyaDas01/TheLibrary-LibraryManagementSystem"><img src="https://img.shields.io/badge/Repository-24292F?style=flat-square&logo=github&logoColor=white" height="20"/></a></td>
+<td>Food Restaurant Website</td>
+<td>Responsive restaurant website built during a full-stack web development internship</td>
+<td><a href="https://github.com/AmartyaDas01/Food-Restaurant-McDuck-s"><img src="https://img.shields.io/badge/Repository-24292F?style=flat-square&logo=github&logoColor=white" height="20"/></a></td>
 </tr>
 <tr>
 <td>Cab Fare Predictor</td>
