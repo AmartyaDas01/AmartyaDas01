@@ -137,6 +137,7 @@
 **[AI Teaching Assistant](https://github.com/AmartyaDas01/ai-teaching-assistant)**
 
 [![Deployed](https://img.shields.io/badge/Deployed-success?style=flat-square&logo=render&logoColor=white)](https://ai-ta-frontend.onrender.com)
+[![Repository](https://img.shields.io/badge/Repository-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/AmartyaDas01/ai-teaching-assistant)
 
 <p align="justify">RAG-based assistant for educators: Chat with course materials with source citations, generate Bloom's Taxonomy aligned quizzes, and track student performance analytics.</p>
 
@@ -153,6 +154,7 @@
 **[Praxis](https://github.com/AmartyaDas01/praxis-lms)**
 
 [![Deployed](https://img.shields.io/badge/Deployed-success?style=flat-square&logo=vercel&logoColor=white)](https://praxis-lms-murex.vercel.app)
+[![Repository](https://img.shields.io/badge/Repository-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/AmartyaDas01/praxis-lms)
 
 <p align="justify">Course and lab management platform for university teaching: assignments, lab submissions, rubric-based grading, and code similarity checking. Early-stage and actively in development.</p>
 
@@ -168,6 +170,7 @@
 **[Library Management System](https://github.com/AmartyaDas01/TheLibrary-LibraryManagementSystem)**
 
 [![Deployed](https://img.shields.io/badge/Deployed-success?style=flat-square&logo=vercel&logoColor=white)](https://library-management-system-omega-rosy.vercel.app)
+[![Repository](https://img.shields.io/badge/Repository-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/AmartyaDas01/TheLibrary-LibraryManagementSystem)
 
 <p align="justify">A library management system with two sides: a public catalogue where members borrow and reserve books, and a staff desk for circulation, fines, and the collection.</p>
 
