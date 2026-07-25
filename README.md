@@ -120,25 +120,22 @@
 
 ---
 
-## Featured Projects
-
-<p align="center"><sub>Selected work across AI-assisted education, university tooling, and full-stack systems.</sub></p>
+## Projects
 
 <table width="100%">
 <tr>
 <td width="33%" valign="top" align="center">
 
-#### [AI Teaching Assistant](https://ai-ta-frontend.onrender.com)
+#### AI Teaching Assistant
 
 [![Deployed](https://img.shields.io/badge/Deployed-success?style=flat-square&logo=render&logoColor=white)](https://ai-ta-frontend.onrender.com)
 [![Repository](https://img.shields.io/badge/Repository-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/AmartyaDas01/ai-teaching-assistant)
 
-<p align="left"><sub>Educator-first RAG assistant for cited material Q&amp;A, Bloom-aligned quizzes, and learner analytics.</sub></p>
+<p align="justify">RAG-based assistant for educators: Chat with course materials with source citations, generate Bloom's Taxonomy aligned quizzes, and track student performance analytics.</p>
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-<br>
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square&logo=chromadb&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
@@ -146,29 +143,28 @@
 </td>
 <td width="33%" valign="top" align="center">
 
-#### [Praxis](https://praxis-lms-murex.vercel.app)
+#### Praxis
 
 [![Deployed](https://img.shields.io/badge/Deployed-success?style=flat-square&logo=vercel&logoColor=white)](https://praxis-lms-murex.vercel.app)
 [![Repository](https://img.shields.io/badge/Repository-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/AmartyaDas01/praxis-lms)
 
-<p align="left"><sub>University teaching workspace for courses, labs, rubric grading, and code-similarity checks.</sub></p>
+<p align="justify">Course and lab management platform for university teaching: assignments, lab submissions, rubric-based grading, and code similarity checking. Early-stage and actively in development.</p>
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-<br>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 
 </td>
 <td width="33%" valign="top" align="center">
 
-#### [The Library](https://library-management-system-omega-rosy.vercel.app)
+#### Library Management System
 
 [![Deployed](https://img.shields.io/badge/Deployed-success?style=flat-square&logo=vercel&logoColor=white)](https://library-management-system-omega-rosy.vercel.app)
 [![Repository](https://img.shields.io/badge/Repository-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/AmartyaDas01/TheLibrary-LibraryManagementSystem)
 
-<p align="left"><sub>Member catalogue and librarian desk for loans, reservations, circulation, fines, and collection management.</sub></p>
+<p align="justify">A library management system with two sides: a public catalogue where members borrow and reserve books, and a staff desk for circulation, fines, and the collection.</p>
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
