@@ -122,7 +122,7 @@
 
 ## Projects
 
-<table width="100%">
+<table width="100%" cellpadding="16">
 <tr>
 <td width="33%" valign="top" align="center">
 
