@@ -131,7 +131,7 @@
 [![Deployed](https://img.shields.io/badge/Deployed-success?style=flat-square&logo=render&logoColor=white)](https://ai-ta-frontend.onrender.com)
 [![Repository](https://img.shields.io/badge/Repository-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/AmartyaDas01/ai-teaching-assistant)
 
-<p align="justify">RAG-based assistant for educators: Chat with course materials with source citations, generate Bloom's Taxonomy aligned quizzes, and track student performance analytics.</p>
+<p align="justify">An AI teaching assistant for cited course-material Q&amp;A, Bloom-aligned quizzes and student analytics.</p>
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -148,7 +148,7 @@
 [![Deployed](https://img.shields.io/badge/Deployed-success?style=flat-square&logo=vercel&logoColor=white)](https://praxis-lms-murex.vercel.app)
 [![Repository](https://img.shields.io/badge/Repository-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/AmartyaDas01/praxis-lms)
 
-<p align="justify">Course and lab management platform for university teaching: assignments, lab submissions, rubric-based grading, and code similarity checking. Early-stage and actively in development.</p>
+<p align="justify">A university teaching platform for assignments, lab submissions, rubric-based grading and code-similarity checks.</p>
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
