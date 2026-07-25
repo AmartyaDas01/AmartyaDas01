@@ -172,7 +172,6 @@
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![bcrypt](https://img.shields.io/badge/bcrypt-33833C?style=flat-square&logo=letsencrypt&logoColor=white)
 
 </td>
 </tr>
