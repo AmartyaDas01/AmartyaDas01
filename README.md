@@ -131,7 +131,7 @@
 [![Deployed](https://img.shields.io/badge/Deployed-success?style=flat-square&logo=render&logoColor=white)](https://ai-ta-frontend.onrender.com)
 [![Repository](https://img.shields.io/badge/Repository-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/AmartyaDas01/ai-teaching-assistant)
 
-<p align="justify">For instructors: chat with course material, create Bloom-aligned quizzes, and follow student progress.</p>
+<p align="justify">Upload course material, ask questions with sources, make quizzes, and see how students are doing.</p>
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -148,7 +148,7 @@
 [![Deployed](https://img.shields.io/badge/Deployed-success?style=flat-square&logo=vercel&logoColor=white)](https://praxis-lms-murex.vercel.app)
 [![Repository](https://img.shields.io/badge/Repository-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/AmartyaDas01/praxis-lms)
 
-<p align="justify">Everything for a university lab: assignments, submissions, rubric grading, and code-similarity checks.</p>
+<p align="justify">Keeps a university lab's moving parts in one place: assignments, submissions, grading, and code checks.</p>
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -164,7 +164,7 @@
 [![Deployed](https://img.shields.io/badge/Deployed-success?style=flat-square&logo=vercel&logoColor=white)](https://library-management-system-omega-rosy.vercel.app)
 [![Repository](https://img.shields.io/badge/Repository-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/AmartyaDas01/TheLibrary-LibraryManagementSystem)
 
-<p align="justify">A practical library system for borrowing, reservations, circulation, fines, and the catalogue.</p>
+<p align="justify">A public catalogue for members, and a staff desk for loans, reservations, and fines.</p>
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
