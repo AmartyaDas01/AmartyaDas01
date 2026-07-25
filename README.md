@@ -126,12 +126,12 @@
 <tr>
 <td width="33%" valign="top" align="center">
 
-#### AI Teaching Assistant
+#### LectureDesk
 
 [![Deployed](https://img.shields.io/badge/Deployed-success?style=flat-square&logo=render&logoColor=white)](https://ai-ta-frontend.onrender.com)
 [![Repository](https://img.shields.io/badge/Repository-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/AmartyaDas01/ai-teaching-assistant)
 
-<p align="justify">An AI teaching assistant for cited course-material Q&amp;A, Bloom-aligned quizzes and student analytics.</p>
+<p align="justify">For instructors: chat with course material, create Bloom-aligned quizzes, and follow student progress.</p>
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -148,7 +148,7 @@
 [![Deployed](https://img.shields.io/badge/Deployed-success?style=flat-square&logo=vercel&logoColor=white)](https://praxis-lms-murex.vercel.app)
 [![Repository](https://img.shields.io/badge/Repository-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/AmartyaDas01/praxis-lms)
 
-<p align="justify">A university teaching platform for assignments, lab submissions, rubric-based grading and code-similarity checks.</p>
+<p align="justify">Everything for a university lab: assignments, submissions, rubric grading, and code-similarity checks.</p>
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -159,12 +159,12 @@
 </td>
 <td width="33%" valign="top" align="center">
 
-#### Library Management System
+#### The Library
 
 [![Deployed](https://img.shields.io/badge/Deployed-success?style=flat-square&logo=vercel&logoColor=white)](https://library-management-system-omega-rosy.vercel.app)
 [![Repository](https://img.shields.io/badge/Repository-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/AmartyaDas01/TheLibrary-LibraryManagementSystem)
 
-<p align="justify">A dual-sided library platform: members browse, borrow and reserve books; librarians manage circulation, fines and the collection.</p>
+<p align="justify">A practical library system for borrowing, reservations, circulation, fines, and the catalogue.</p>
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
