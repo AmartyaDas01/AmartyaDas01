@@ -63,7 +63,6 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
 ### AI & Data Science
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -112,13 +111,6 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### Blockchain & Web3
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
-![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
-
 ### Developer Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -132,9 +124,9 @@
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
-**[AI Teaching Assistant](https://github.com/AmartyaDas01/ai-teaching-assistant)**
+#### AI Teaching Assistant
 
 [![Deployed](https://img.shields.io/badge/Deployed-success?style=flat-square&logo=render&logoColor=white)](https://ai-ta-frontend.onrender.com)
 [![Repository](https://img.shields.io/badge/Repository-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/AmartyaDas01/ai-teaching-assistant)
@@ -149,9 +141,9 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
-**[Praxis](https://github.com/AmartyaDas01/praxis-lms)**
+#### Praxis
 
 [![Deployed](https://img.shields.io/badge/Deployed-success?style=flat-square&logo=vercel&logoColor=white)](https://praxis-lms-murex.vercel.app)
 [![Repository](https://img.shields.io/badge/Repository-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/AmartyaDas01/praxis-lms)
@@ -165,9 +157,9 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
-**[Library Management System](https://github.com/AmartyaDas01/TheLibrary-LibraryManagementSystem)**
+#### Library Management System
 
 [![Deployed](https://img.shields.io/badge/Deployed-success?style=flat-square&logo=vercel&logoColor=white)](https://library-management-system-omega-rosy.vercel.app)
 [![Repository](https://img.shields.io/badge/Repository-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/AmartyaDas01/TheLibrary-LibraryManagementSystem)
@@ -187,50 +179,54 @@
 
 <div align="center">
 
-<table>
-<tr><th align="left">Project</th><th align="left">Description</th><th align="left">Link</th></tr>
+<table width="100%">
 <tr>
-<td>Handwritten Digit Recognition</td>
+<th align="left">Project</th>
+<th align="left">Description</th>
+<th align="center">Link</th>
+</tr>
+<tr>
+<td><strong>Handwritten Digit Recognition</strong></td>
 <td>Draw a digit in the browser and a CNN reads it back live</td>
-<td>
+<td align="center">
 <a href="https://handwritten-digit-recognition-ho1h.onrender.com"><img src="https://img.shields.io/badge/Deployed-success?style=flat-square&logo=render&logoColor=white" height="20"/></a>
 <a href="https://github.com/AmartyaDas01/handwritten-digit-recognition"><img src="https://img.shields.io/badge/Repository-24292F?style=flat-square&logo=github&logoColor=white" height="20"/></a>
 </td>
 </tr>
 <tr>
-<td>Food Restaurant Website</td>
+<td><strong>Food Restaurant Website</strong></td>
 <td>Responsive restaurant website built during a full-stack web development internship</td>
-<td><a href="https://github.com/AmartyaDas01/Food-Restaurant-McDuck-s"><img src="https://img.shields.io/badge/Repository-24292F?style=flat-square&logo=github&logoColor=white" height="20"/></a></td>
+<td align="center"><a href="https://github.com/AmartyaDas01/Food-Restaurant-McDuck-s"><img src="https://img.shields.io/badge/Repository-24292F?style=flat-square&logo=github&logoColor=white" height="20"/></a></td>
 </tr>
 <tr>
-<td>Cab Fare Predictor</td>
+<td><strong>Cab Fare Predictor</strong></td>
 <td>ML model to predict cab fares from trip features</td>
-<td></td>
+<td align="center"><img src="https://img.shields.io/badge/Planned-8b949e?style=flat-square" height="20"/></td>
 </tr>
 <tr>
-<td>AQI Predictor</td>
+<td><strong>AQI Predictor</strong></td>
 <td>Air Quality Index prediction from environmental sensor data</td>
-<td></td>
+<td align="center"><img src="https://img.shields.io/badge/Planned-8b949e?style=flat-square" height="20"/></td>
 </tr>
 <tr>
-<td>Traffic Volume Estimator</td>
+<td><strong>Traffic Volume Estimator</strong></td>
 <td>Estimates traffic volume for smart transport planning</td>
-<td></td>
+<td align="center"><img src="https://img.shields.io/badge/Planned-8b949e?style=flat-square" height="20"/></td>
 </tr>
 <tr>
-<td>Blogify</td>
+<td><strong>Blogify</strong></td>
 <td>Full-stack blog platform</td>
-<td></td>
+<td align="center"><img src="https://img.shields.io/badge/Planned-8b949e?style=flat-square" height="20"/></td>
 </tr>
 <tr>
-<td>Voting DApp</td>
+<td><strong>Voting DApp</strong></td>
 <td>Decentralized voting application on Ethereum</td>
-<td></td>
+<td align="center"><img src="https://img.shields.io/badge/Planned-8b949e?style=flat-square" height="20"/></td>
 </tr>
 <tr>
-<td>DSA Library</td>
+<td><strong>DSA Library</strong></td>
 <td>Data structures and algorithms implemented in C and Python</td>
-<td></td>
+<td align="center"><img src="https://img.shields.io/badge/Planned-8b949e?style=flat-square" height="20"/></td>
 </tr>
 </table>
 
@@ -272,9 +268,6 @@
   </a>
   <a href="mailto:dasamartya2000@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/AmartyaDas01">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
