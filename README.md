@@ -126,7 +126,7 @@
 <tr>
 <td width="33%" valign="top" align="center">
 
-#### LectureDesk
+#### Teaching Toolkit
 
 [![Deployed](https://img.shields.io/badge/Deployed-success?style=flat-square&logo=render&logoColor=white)](https://ai-ta-frontend.onrender.com)
 [![Repository](https://img.shields.io/badge/Repository-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/AmartyaDas01/ai-teaching-assistant)
