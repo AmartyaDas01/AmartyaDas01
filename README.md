@@ -131,7 +131,7 @@
 [![Deployed](https://img.shields.io/badge/Deployed-success?style=flat-square&logo=render&logoColor=white)](https://ai-ta-frontend.onrender.com)
 [![Repository](https://img.shields.io/badge/Repository-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/AmartyaDas01/ai-teaching-assistant)
 
-<p align="justify">Upload a course's notes and slides, then ask questions and get answers grounded in that material with the sources cited. It can also generate quizzes aligned to Bloom's Taxonomy and track how students are doing over time, so office hours go to the questions that actually need a person.</p>
+<p align="left">AI teaching assistant that answers questions from course material with cited sources, generates quizzes, and tracks student performance.</p>
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -150,7 +150,7 @@
 [![Deployed](https://img.shields.io/badge/Deployed-success?style=flat-square&logo=vercel&logoColor=white)](https://praxis-lms-murex.vercel.app)
 [![Repository](https://img.shields.io/badge/Repository-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/AmartyaDas01/praxis-lms)
 
-<p align="justify">Started this after one too many semesters running labs out of spreadsheets and email attachments. It handles assignments, submissions, and grading in one place, with role-scoped access for instructors, TAs, and students. Still early: authentication and the core schema are live, and the grading and code-similarity tools are next.</p>
+<p align="left">Course and lab management platform for university teaching: assignments, submissions, and grading in one place. Early stage.</p>
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -168,7 +168,7 @@
 [![Deployed](https://img.shields.io/badge/Deployed-success?style=flat-square&logo=vercel&logoColor=white)](https://library-management-system-omega-rosy.vercel.app)
 [![Repository](https://img.shields.io/badge/Repository-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/AmartyaDas01/TheLibrary-LibraryManagementSystem)
 
-<p align="justify">Splits into two halves: a public catalogue where members search the collection, borrow, and reserve books, and a staff-side desk for circulation, fines, and managing the collection day to day. Rebuilt from an older Django version into a Next.js and Postgres stack.</p>
+<p align="left">Library management system with a public catalogue for borrowing and reserving books, and a staff desk for circulation and fines.</p>
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
