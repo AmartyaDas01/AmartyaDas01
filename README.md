@@ -24,7 +24,7 @@
 
 - **Assistant Professor** at **Dayananda Sagar University**, Bangalore
 - **M.Tech CSE** at **BIT Mesra** · CGPA: **8.78** | B.Tech CSE · CGPA: **8.9**
-- Passionate about **Machine Learning, AI-driven Systems & Full-Stack Web Development**
+- Working mostly in **machine learning, AI-driven systems, and full-stack web development**
 - **GATE Qualified** - 2024 & 2025 (Computer Science & IT)
 - Solved **300+ problems** on LeetCode, GeeksforGeeks & HackerEarth
 - Reach me at **dasamartya2000@gmail.com**
@@ -39,7 +39,7 @@
 
 - Teaching undergraduate courses in the Department of Computer Science and Engineering
 - Mentoring students on academic projects, research, and career development
-- Contributing to curriculum development and departmental academic activities
+- Contributing to curriculum development for the CSE program
 
 <br>
 
@@ -48,8 +48,8 @@
 *Navi Mumbai, Maharashtra, India*
 
 - Designed responsive UIs using HTML, CSS, and JavaScript
-- Implemented server-side functionalities with backend frameworks and database integration
-- Collaborated on full-stack web projects, ensuring smooth integration between frontend and backend
+- Built server-side features using backend frameworks and integrated databases
+- Collaborated on full-stack web projects, connecting frontend and backend work
 
 ---
 
@@ -131,7 +131,7 @@
 [![Deployed](https://img.shields.io/badge/Deployed-success?style=flat-square&logo=render&logoColor=white)](https://ai-ta-frontend.onrender.com)
 [![Repository](https://img.shields.io/badge/Repository-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/AmartyaDas01/ai-teaching-assistant)
 
-<p align="justify">Upload course material, ask questions with sources, make quizzes, and see how students are doing.</p>
+<p align="justify">Upload a course's notes and slides, then ask questions and get answers grounded in that material with the sources cited. It can also generate quizzes aligned to Bloom's Taxonomy and track how students are doing over time, so office hours go to the questions that actually need a person.</p>
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -150,7 +150,7 @@
 [![Deployed](https://img.shields.io/badge/Deployed-success?style=flat-square&logo=vercel&logoColor=white)](https://praxis-lms-murex.vercel.app)
 [![Repository](https://img.shields.io/badge/Repository-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/AmartyaDas01/praxis-lms)
 
-<p align="justify">Keeps a university lab's moving parts in one place: assignments, submissions, grading, and code checks.</p>
+<p align="justify">Started this after one too many semesters running labs out of spreadsheets and email attachments. It handles assignments, submissions, and grading in one place, with role-scoped access for instructors, TAs, and students. Still early: authentication and the core schema are live, and the grading and code-similarity tools are next.</p>
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -168,7 +168,7 @@
 [![Deployed](https://img.shields.io/badge/Deployed-success?style=flat-square&logo=vercel&logoColor=white)](https://library-management-system-omega-rosy.vercel.app)
 [![Repository](https://img.shields.io/badge/Repository-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/AmartyaDas01/TheLibrary-LibraryManagementSystem)
 
-<p align="justify">A public catalogue for members, and a staff desk for loans, reservations, and fines.</p>
+<p align="justify">Splits into two halves: a public catalogue where members search the collection, borrow, and reserve books, and a staff-side desk for circulation, fines, and managing the collection day to day. Rebuilt from an older Django version into a Next.js and Postgres stack.</p>
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
