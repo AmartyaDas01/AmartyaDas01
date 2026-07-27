@@ -143,7 +143,7 @@
 </td>
 <td width="33%" valign="top" align="center">
 
-### Praxis
+### Praxis LMS
 
 [![Deployed](https://img.shields.io/badge/Deployed-success?style=flat-square&logo=vercel&logoColor=white)](https://praxis-lms-murex.vercel.app)
 [![Repository](https://img.shields.io/badge/Repository-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/AmartyaDas01/praxis-lms)
