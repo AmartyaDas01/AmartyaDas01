@@ -140,6 +140,8 @@
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square&logo=chromadb&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
+<br>
+
 </td>
 <td width="33%" valign="top" align="center">
 
@@ -156,6 +158,8 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 
+<br>
+
 </td>
 <td width="33%" valign="top" align="center">
 
@@ -171,6 +175,8 @@
 <br>
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+<br>
 
 </td>
 </tr>
