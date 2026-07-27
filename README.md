@@ -150,7 +150,7 @@
 [![Deployed](https://img.shields.io/badge/Deployed-success?style=flat-square&logo=vercel&logoColor=white)](https://praxis-lms-murex.vercel.app)
 [![Repository](https://img.shields.io/badge/Repository-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/AmartyaDas01/praxis-lms)
 
-<p align="left">Course and lab management platform for university teaching: assignments, submissions, and grading in one place. Early stage.</p>
+<p align="left">Course and lab management platform for university teaching: assignments, submissions, and grading in one place. <b>Early stage</b>.</p>
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
