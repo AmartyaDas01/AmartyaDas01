@@ -235,7 +235,7 @@
 </tr>
 <tr>
 <td><strong>DSA Library</strong></td>
-<td>Data structures and algorithms implemented in C and Python</td>
+<td>Data structures and algorithms implemented in C++</td>
 <td align="center"><img src="https://img.shields.io/badge/Planned-8b949e?style=flat-square" height="20"/></td>
 </tr>
 </table>
