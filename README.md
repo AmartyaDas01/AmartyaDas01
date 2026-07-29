@@ -203,7 +203,10 @@
 <tr>
 <td><strong>Food Restaurant Website</strong></td>
 <td>Responsive restaurant website built during a full-stack web development internship</td>
-<td align="center"><a href="https://github.com/AmartyaDas01/Food-Restaurant-McDuck-s"><img src="https://img.shields.io/badge/Repository-24292F?style=flat-square&logo=github&logoColor=white" height="20"/></a></td>
+<td align="center">
+<a href="https://amartyadas01.github.io/Food-Restaurant-McDuck-s/"><img src="https://img.shields.io/badge/Deployed-success?style=flat-square&logo=githubpages&logoColor=white" height="20"/></a>
+<a href="https://github.com/AmartyaDas01/Food-Restaurant-McDuck-s"><img src="https://img.shields.io/badge/Repository-24292F?style=flat-square&logo=github&logoColor=white" height="20"/></a>
+</td>
 </tr>
 <tr>
 <td><strong>Cab Fare Predictor</strong></td>
